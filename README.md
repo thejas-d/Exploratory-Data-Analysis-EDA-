@@ -4,7 +4,7 @@
 Perform exploratory analysis on the Titanic dataset to identify patterns, trends, and anomalies using Python (Pandas, Matplotlib, Seaborn).
 
 ## Dataset
-[Titanic - train.csv from Kaggle](https://www.kaggle.com/c/titanic/data?select=train.csv)
+[Titanic - train.csv from Kaggle](https://www.kaggle.com/c/titanic/data?select=train.csv) ~891 rows data 
 
 ## Key Tools
 - Pandas
